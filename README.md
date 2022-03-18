@@ -24,7 +24,7 @@ If you use any part of this work, please consider citing the paper as follows:
 ```
 
 ## Description
-This is the repository for the paper [*Probing Pretrained Langauge Models for Predicate Argument Structures*](),
+This is the repository for the paper [*Probing Pretrained Language Models for Predicate Argument Structures*](),
 to be presented at ACL 2022 by [Simone Conia](https://c-simone.github.io) and [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/).
 
 
