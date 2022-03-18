@@ -1,0 +1,15 @@
+data/**/*.txt
+data/**/*.tsv
+data/**/*.json
+output/**/*.txt
+
+*.bin
+*.vec
+
+.DS_Store
+
+.vscode/
+
+*logs*/*
+
+__pycache__
