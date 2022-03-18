@@ -28,6 +28,8 @@ to be presented at ACL 2022 by [Simone Conia](https://c-simone.github.io) and [R
   predicate argument structure information into an SRL model.
 
 
+![comparison between m-bert and xlmr](./output/analysis/mbert-vs-xlmr.jpg "Comparison between m-BERT and XLM-R")
+
 ## Download
 You can download a copy of all the files in this repository by cloning the
 [git](https://git-scm.com/) repository:
