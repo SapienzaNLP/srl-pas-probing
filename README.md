@@ -8,6 +8,21 @@
 
 </div>
 
+## Cite this work
+If you use any part of this work, please consider citing the paper as follows:
+
+```
+@inproceedings{conia-navigli-2022-probing,
+    title      = "Probing Pretrained Language Models for Predicate Argument Structures",
+    author     = "Conia, Simone and Navigli, Roberto",
+    booktitle  = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)",
+    month      = may,
+    year       = "2022",
+    address    = "Dublin, Ireland",
+    publisher  = "Association for Computational Linguistics"
+}
+```
+
 ## Description
 This is the repository for the paper [*Probing Pretrained Langauge Models for Predicate Argument Structures*](),
 to be presented at ACL 2022 by [Simone Conia](https://c-simone.github.io) and [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/).
@@ -191,17 +206,5 @@ You can also evaluate multiple probes with a single command:
 ./scripts/evaluation/evaluate_propbank_concat_probes.sh
 ```
 
-## Cite this work
-If you use any part of this work, please consider citing the paper as follows:
-
-```
-@inproceedings{conia-navigli-2022-probing,
-    title      = "Probing Pretrained Language Models for Predicate Argument Structures",
-    author     = "Conia, Simone and Navigli, Roberto",
-    booktitle  = "Proceedings of ACL 2022",
-    month      = may,
-    year       = "2022",
-    address    = "Dublin, Ireland",
-    publisher  = "Association for Computational Linguistics"
-}
-```
+## License
+This work is under the Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
