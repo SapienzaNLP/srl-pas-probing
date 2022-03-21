@@ -206,5 +206,13 @@ You can also evaluate multiple probes with a single command:
 ./scripts/evaluation/evaluate_propbank_concat_probes.sh
 ```
 
+## Acknowledgments
+
+The authors gratefully acknowledge the support of the ERC Consolidator Grant MOUSSE No. 726487 and the European Language Grid
+project No. 825627 (Universal Semantic Annotator, USeA) under the European Union’s Horizon 2020 research and innovation programme.
+
+This work was supported in part by the MIUR under grant “Dipartimenti di eccellenza 2018-2022” of the Department of Computer Science of the Sapienza University of Rome.
+
+
 ## License
 This work is under the Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
