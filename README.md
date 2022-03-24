@@ -2,7 +2,7 @@
  
 # Probing Pretrained Language Models for Predicate Argument Structures
 
-[![Paper](http://img.shields.io/badge/paper-ACL--anthology-B31B1B.svg)]()
+[![Paper](http://img.shields.io/badge/paper-ACL--anthology-B31B1B.svg)](https://www.researchgate.net/publication/359418363_Probing_for_Predicate_Argument_Structures_in_Pretrained_Language_Models)
 [![Conference](http://img.shields.io/badge/conference-ACL--2022-4b44ce.svg)](https://www.2022.aclweb.org/)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -24,7 +24,7 @@ If you use any part of this work, please consider citing the paper as follows:
 ```
 
 ## Description
-This is the repository for the paper [*Probing Pretrained Language Models for Predicate Argument Structures*](),
+This is the repository for the paper [*Probing Pretrained Language Models for Predicate Argument Structures*](https://www.researchgate.net/publication/359418363_Probing_for_Predicate_Argument_Structures_in_Pretrained_Language_Models),
 to be presented at ACL 2022 by [Simone Conia](https://c-simone.github.io) and [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/).
 
 
