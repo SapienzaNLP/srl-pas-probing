@@ -13,7 +13,7 @@ If you use any part of this work, please consider citing the paper as follows:
 
 ```
 @inproceedings{conia-navigli-2022-probing,
-    title      = "Probing Pretrained Language Models for Predicate Argument Structures",
+    title      = "Probing for Predicate Argument Structures in Pretrained Language Models",
     author     = "Conia, Simone and Navigli, Roberto",
     booktitle  = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)",
     month      = may,
@@ -24,7 +24,7 @@ If you use any part of this work, please consider citing the paper as follows:
 ```
 
 ## Description
-This is the repository for the paper [*Probing Pretrained Language Models for Predicate Argument Structures*](https://www.researchgate.net/publication/359418363_Probing_for_Predicate_Argument_Structures_in_Pretrained_Language_Models),
+This is the repository for the paper [*Probing for Predicate Argument Structures in Pretrained Language Models*](https://www.researchgate.net/publication/359418363_Probing_for_Predicate_Argument_Structures_in_Pretrained_Language_Models),
 to be presented at ACL 2022 by [Simone Conia](https://c-simone.github.io) and [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/).
 
 
