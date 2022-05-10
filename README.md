@@ -1,6 +1,6 @@
 <div align="center">    
  
-# Probing Pretrained Language Models for Predicate Argument Structures
+# Probing for Predicate Argument Structures in Pretrained Language Models
 
 [![Paper](http://img.shields.io/badge/paper-ACL--anthology-B31B1B.svg)](https://www.researchgate.net/publication/359418363_Probing_for_Predicate_Argument_Structures_in_Pretrained_Language_Models)
 [![Conference](http://img.shields.io/badge/conference-ACL--2022-4b44ce.svg)](https://www.2022.aclweb.org/)
